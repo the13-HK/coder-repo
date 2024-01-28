@@ -27,4 +27,4 @@ coder-repoはAtCoder等の競技プログラミングの勉強の過程で作成
 
 ## Author
 
-[tcnksm](https://github.com/tcnksm)
+[the13-HK](https://github.com/the13-HK)
