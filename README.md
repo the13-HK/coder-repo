@@ -1,4 +1,4 @@
-Name
+Coder-repo
 ====
 
 coder-repoはAtCoder等の競技プログラミングの勉強の過程で作成したコードを格納するためのリポジトリです。
