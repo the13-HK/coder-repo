@@ -15,8 +15,8 @@ while flg == False:
         tile = serach_list[i]
         remain_H = dp[count][i-1][0]
         remain_W = dp[count][i-1][1]
-    if remain_H < 0 or remain_W < 0:
-        next
+        
+        
         
     
     tile = sorted_list[count]
