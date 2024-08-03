@@ -14,5 +14,4 @@ for count in cards:
 
 output.sort()
 print(len(output))
-str = ""
 print(*sorted(output), end=" ")
