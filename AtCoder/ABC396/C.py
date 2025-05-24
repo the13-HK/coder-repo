@@ -11,6 +11,8 @@ for i in range(M):
     T[i + 1] = T[i] + B[i]
     maxT[i + 1] = max(maxT[i], T[i + 1])
 
+
+
 ans = 0
 for i in range(N + 1):
     ans = max(ans, S[i] + maxT[min(i, M)])
